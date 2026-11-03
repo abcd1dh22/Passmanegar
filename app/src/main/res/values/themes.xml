@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.VaultPass" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/win_bg</item>
+    </style>
+</resources>
